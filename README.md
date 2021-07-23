@@ -6,8 +6,16 @@ The UAV-Eagle dataset contains 510 annotated images of our custom quadcopter Eag
 
 The UAV-Eagle dataset is available [here](https://drive.google.com/drive/folders/1hj6-H6DaqPVJ89fErsB4hi9atHF7RCoD?usp=sharing) or by running ``` ./download_uav_eagle.sh ``` in terminal.
 
-If you use this dataset for your research, please cite:
+If you use this dataset for your research, please cite the preprint:
 ```
+@misc{barišić2021brain,
+      title={Brain over Brawn - Using a Stereo Camera to Detect, Track and Intercept a Faster UAV by Reconstructing Its Trajectory}, 
+      author={Antonella Barišić and Frano Petric and Stjepan Bogdan},
+      year={2021},
+      eprint={2107.00962},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO}
+}
 ```
 
 ## Dataset
