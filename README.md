@@ -8,13 +8,18 @@ The UAV-Eagle dataset is available [here](https://drive.google.com/drive/folders
 
 If you use this dataset for your research, please cite the preprint:
 ```
-@misc{barišić2021brain,
-      title={Brain over Brawn - Using a Stereo Camera to Detect, Track and Intercept a Faster UAV by Reconstructing Its Trajectory}, 
-      author={Antonella Barišić and Frano Petric and Stjepan Bogdan},
-      year={2021},
-      eprint={2107.00962},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO}
+@article{Barisic2022,
+  doi = {10.55417/fr.2022009},
+  url = {https://doi.org/10.55417/fr.2022009},
+  year = {2022},
+  month = mar,
+  publisher = {Field Robotics Publication Society},
+  volume = {2},
+  number = {1},
+  pages = {222--240},
+  author = {Antonella Bari{\v{s}}i{\'{c}} and Frano Petric and Stjepan Bogdan},
+  title = {Brain over Brawn: Using a Stereo Camera to Detect, Track, and Intercept a Faster {UAV} by Reconstructing the Intruder's Trajectory},
+  journal = {Field Robotics}
 }
 ```
 
