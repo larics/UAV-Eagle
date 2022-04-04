@@ -1,12 +1,14 @@
 # UAV-Eagle dataset
 
-This repository contains the UAV-Eagle dataset accompanying the paper "Brain over Brawn - Using a Stereo Camera to Detect, Track and Intercept a Faster UAV by Reconstructing Its Trajectory".
+This repository contains the UAV-Eagle dataset accompanying the journal paper "Brain over Brawn: Using a Stereo Camera to Detect, Track, and Intercept a Faster UAV by Reconstructing the Intruder's Trajectory".
+
+[Field Robotics paper](https://www.journalfieldrobotics.org/Field_Robotics/Volume_2_files/Vol2_09.pdf) | [Video](https://www.youtube.com/watch?v=EPoxrC6S8tw)
 
 The UAV-Eagle dataset contains 510 annotated images of our custom quadcopter Eagle in an unconstrained environment. This dataset is quite challenging due to the presence of illumination changes, motion effects, changes in viewpoint, and the presence of various objects in the background. The dataset can be used as a testbed for the detection of UAVs, demonstrating the robustness of the detector in real-world conditions and the ability to detect a previously unseen object of interest.
 
 The UAV-Eagle dataset is available [here](https://drive.google.com/drive/folders/1hj6-H6DaqPVJ89fErsB4hi9atHF7RCoD?usp=sharing) or by running ``` ./download_uav_eagle.sh ``` in terminal.
 
-If you use this dataset for your research, please cite the preprint:
+If you use this dataset for your research, please cite:
 ```
 @article{Barisic2022,
   doi = {10.55417/fr.2022009},
